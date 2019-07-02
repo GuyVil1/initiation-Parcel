@@ -5,7 +5,7 @@ On se pose pour comprendre la structure et le fonctionnement de l'outil et si le
 
 <h2>Sommaire</h2>
 <ul>
-  <li><a href="#">1. les outils</a></li>
+  <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/01.Les-outils.md">1. les outils</a></li>
   <li><a href="#">2. Parcel Vs Webpack</a></li>
   <li><a href="#">3. Parcel Global</a></li>
   <li><a href="#">4. Parcel Local</a></li>
@@ -21,3 +21,10 @@ On se pose pour comprendre la structure et le fonctionnement de l'outil et si le
   <li><a href="#">14. Moderniser le snake pour parcel</a></li>
   <li><a href="#">15. Deploier le snake en ligne.</a></li>
   </ul>
+  
+  Tu verras que fondamentalement, y'aura rien de très compliqué, ce sera surtout l'occasion pour toi de découvrir un nouvel outil assez sympathique. Donc mets-toi en mode relax, on est parti
+  
+  <img src="https://media.giphy.com/media/5T0yHHWsC39rtI82SH/giphy.gif" />
+  
+<a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/01.Les-outils.md">1. les outils</a>
+
