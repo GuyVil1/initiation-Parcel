@@ -6,7 +6,7 @@ On se pose pour comprendre la structure et le fonctionnement de l'outil et si le
 <h2>Sommaire</h2>
 <ul>
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/01.Les-outils.md">1. les outils</a></li>
-  <li><a href="#">2. Parcel Vs Webpack</a></li>
+  <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/02.Parcel-Vs-Webpack.md">2. Parcel Vs Webpack</a></li>
   <li><a href="#">3. Parcel Global</a></li>
   <li><a href="#">4. Parcel Local</a></li>
   <li><a href="#">5. Port & Build</a></li>
