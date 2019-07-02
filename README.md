@@ -10,8 +10,8 @@ On se pose pour comprendre la structure et le fonctionnement de l'outil et si le
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/02.Parcel-Vs-Webpack.md/#global">3. Parcel Global</a></li>
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/04.Parcel-Local.md">4. Parcel Local</a></li>
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/04.Parcel-Local.md/#build">5. Port & Build</a></li>
-  <li><a href="#">6. Découpage du code</a></li>
-  <li><a href="#">7. Importer les packages</a></li>
+  <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/06.decouper-son-code.md">6. Découpage du code</a></li>
+  <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/06.decouper-son-code.md/#package">7. Importer les packages</a></li>
   <li><a href="#">8. Code de dev</a></li>
   <li><a href="#">9. Variables et environnement</a></li>
   <li><a href="#">10. Css et PostCss</a></li>
