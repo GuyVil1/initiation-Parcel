@@ -16,7 +16,7 @@ On se pose pour comprendre la structure et le fonctionnement de l'outil et si le
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/09.variable-d-environnement.md">9. Variables d'environnement</a></li>
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/09.variable-d-environnement.md/#css">10. Css et PostCss</a></li>
   <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/09.variable-d-environnement.md/#scss">11. SCSS</a></li>
-  <li><a href="#">12. React et Parcel</a></li>
+  <li><a href="https://github.com/GuyVil1/initiation-Parcel/blob/master/12.parcel-et-react.md">12. React et Parcel</a></li>
   <li><a href="#">13. Un petit Snake pour la route ???</a></li>
   <li><a href="#">14. Moderniser le snake pour parcel</a></li>
   <li><a href="#">15. Deploier le snake en ligne.</a></li>
